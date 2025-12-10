@@ -18,9 +18,9 @@ h1 {
 }
 
 .container {
-    width: 800px;       /* aumenta a largura */
-    padding: 50px;      /* aumenta o espaço interno */
-    border-radius: 10px;       /* centraliza */
+    width: 800px;      
+    padding: 50px;      
+    border-radius: 10px;       
     border-radius: 10px;
     background-color: rgb(26, 26, 122);
     color: antiquewhite;
